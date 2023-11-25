@@ -43,11 +43,11 @@ We welcome contributions to help expand and improve the dataset. Refer to our [C
 
 ## API Documentation
 
-EngaUSA provides an API for accessing the dataset. Refer to [API Documentation](API_DOCS.md) for detailed information on endpoints, request/response formats, and authentication requirements.
+Engausa provides an API for accessing the dataset. Refer to [API Documentation](API_DOCS.md) for detailed information on endpoints, request/response formats, and authentication requirements.
 
 ## How to Contribute
 
-We appreciate contributions from the community. To contribute to EngaUSA, follow these steps:
+We appreciate contributions from the community. To contribute to Engausa, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
@@ -59,9 +59,9 @@ Please review our [Contribution Guidelines](CONTRIBUTING.md) for more details.
 
 ## License
 
-EngaUSA is licensed under the [Your License] - see the [LICENSE.md](LICENSE.md) file for details.
+Engausa is licensed under the [Your License] - see the [LICENSE.md](LICENSE.md) file for details.
 
-Thank you for being a part of the EngaUSA community!
+Thank you for being a part of the Engausa community!
 
 ### Installation
 
